@@ -64,6 +64,9 @@ print(str(response))
 ```
 
 ### OUTPUT:
+![EXP4 1](https://github.com/user-attachments/assets/1d15e3a3-be6f-4fe8-8b86-9226dc5de453)
+![EXP4 2](https://github.com/user-attachments/assets/82b8dff0-1ddc-4af7-ba4a-5059d1add1df)
+![EXP4 3](https://github.com/user-attachments/assets/f960e155-cbf5-408e-b675-6b735bf7c7a1)
 
 ### RESULT:
 The system successfully retrieves and synthesizes relevant information from multiple documents, providing concise and relevant answers to the user's query. Performance is evaluated based on the accuracy, relevance, and coherence of the responses.    
